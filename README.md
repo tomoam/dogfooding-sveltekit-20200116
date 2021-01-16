@@ -1,3 +1,7 @@
+※これは2020/1/16にSveltekitを試してみたリポジトリです。
+
+---
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
